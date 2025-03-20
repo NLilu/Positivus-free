@@ -215,6 +215,7 @@ header {
   background-color: var(--green);
   border-radius: 10px;
   display: inline;
+  margin-right: 10px;
 }
 
 .black__card--left h3,
@@ -246,6 +247,7 @@ header {
   text-align: center;
   justify-content: center;
   align-items: center;
+  margin: auto;
 }
 
 .grey__card {
@@ -437,7 +439,7 @@ details[open] summary .plusminus::before {
   color: white;
   background-color: var(--black);
   border-radius: 48px;
-  width: 1240px;
+  width: 1440px;
   height: 625px;
   text-align: left;
   justify-content: left;
