@@ -653,6 +653,7 @@ footer {
 .ftnavbar__img {
   display: flex;
   gap: 15px;
+  cursor: pointer;
 }
 .topbar {
   width: 100%;
@@ -664,13 +665,6 @@ footer {
   align-items: center;
   padding-inline: 60px;
   border-radius: 45px 45px 0 0;
-}
-
-.navbar__list > a {
-  text-decoration: underline;
-}
-.navbar__img img {
-  padding-right: 10px;
 }
 
 .midbar {
@@ -728,6 +722,7 @@ footer {
   border-radius: 15px;
   border: 1px solid #292a32;
   margin-left: 10px;
+  cursor: pointer;
 }
 
 .bottombar {
